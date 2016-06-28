@@ -13,5 +13,5 @@ Write the website which will take an input as a webpage url and will output all 
 
 ## Submission
 
-Clone this repository and work on it in your github space. When ready make a merge request. So such you'll train git/hub skills.
-Do not spend more two weeks on this task, if you'll have any questions, let me know by opening an [issue](https://github.com/fizzlbuzzl/image-crawler/issues).
+Clone this repository and work on it in your github space. When ready make a merge request. So such you'll train git/hub skills in addition.
+Do not spend more than two weeks on this task, if you'll have any questions, let me know by opening an [issue](https://github.com/fizzlbuzzl/image-crawler/issues).
